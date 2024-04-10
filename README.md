@@ -13,4 +13,6 @@ User can find draggabl world setting, character, narrator and input variable car
 From left to right, the typing bar on the left is the place for users type the command to the chatbot. Next, is the typing bar controlling the value of input variables that you define at page 1. The third section is to show the outupt of the chatbot. The picture on the right is the direct graph of the stages. Nodes and edges are structure just like how users defined at page 2. Pink node represents the stage we have explored. 
 ![alt text](https://github.com/warrenwong641/AInarrator/blob/0b2ae84ef145da559305dd613347c99cb077ebf4/page3.png)
 
+# Running on local machine
+Download all the file and then place them on a same directory. On terimal, set cd to the directory. Next, type python app.py.
 
