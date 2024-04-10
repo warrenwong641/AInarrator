@@ -1,4 +1,5 @@
 # About the website
+The link to website: https://ainarrator.pythonanywhere.com/    (Several function don't work in the website. For full experience, please run it locally.)
 This website allow users to create various setting of the stroyworld, making plot on it and then pass it to chatbot to generate stories.
 # Page1
 In this page, user can type setting of the world. World setting controls the background knowledge of the world. Character setting let users create the character. Narrator setting let user control the role of the chatbot. Input variable sets the parameter of the storyworld. See image below for demonstration. 
